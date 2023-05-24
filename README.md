@@ -21,7 +21,7 @@ following is the major classification of types of design patterns implemented:
 14. 5. Flyweight Design Pattern 
 15. 6. Decorator Design Pattern 
 16. 
-17. 3. Behavioral Design Pattern
+17. Behavioral Design Pattern
 21. Iterator Design Pattern
 22. Mediator Design Pattern
 23. Momento Design Pattern
